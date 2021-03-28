@@ -13,14 +13,21 @@ print(string.format("Size: %dx%d (%s)", idat.width, idat.height, idat.color))
 if idat.source then
 	print("Source: "..idat.source)
 end
-print("States:")
+if idat.version then
+	print("Format version: "..idat.version)
+end
+print("Sprites:")
 
 for k, v in pairs(idat.frames) do
-	print("\tState: "..k)
-	print("\tFrames:")
-	for i=1, #v do
-		local frame = v[i]
-		print(string.format("\t\tx: %d y: %d w: %d h: %d dt: %.3fs", frame.x, frame.y, frame.w, frame.h, frame.dt))
+	print("\tSprite: "..k)
+	print("\tStates:")
+	for j, c in pairs(v.states) do
+		print("\t\tState: "..j)
+		print("\t\tFrames:")
+		for i=1, #c do
+			local frame = c[i]
+			print(string.format("\t\t\tx: %d y: %d w: %d h: %d dt: %.3fs", frame.x, frame.y, frame.w, frame.h, frame.dt))
+		end
 	end
 	print("")
 end
