@@ -1,0 +1,3976 @@
+ls_spritesheet viewer
+Size: 1024x1024 (rgba8888)
+Source: /home/sam/Downloads/human_parts.dmi
+States:
+	State: skeleton_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_chest_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_head_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_head_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_chest_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_head_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_chest_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_head_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_head_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_chest_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_chest_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_head_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_head_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_chest_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_head_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_chest_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_chest_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_chest_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_head_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: _east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_head_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_chest_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_chest_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_chest_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_chest_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_head_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_head_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_head_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_head_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_chest_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_chest_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_head_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_chest_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_head_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_chest_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_chest_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_head_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_head_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_head_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_chest_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_chest_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_head_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_chest_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_head_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: _north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_chest_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_chest_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_dead_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_head_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_chest_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_head_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_chest_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 4 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 5 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 6 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 7 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_head_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_head_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_head_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_head_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_head_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_head_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 4 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 5 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 6 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 7 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 8 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_head_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_chest_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_head_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_head_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_chest_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_head_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_chest_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_chest_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_chest_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_chest_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_head_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_chest_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_head_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_chest_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_chest_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: _south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_head_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 4 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_chest_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_chest_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_chest_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_chest_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_eyes_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_eyes_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_chest_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 4 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 5 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_eyes_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_chest_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_head_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_chest_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 4 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 5 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 6 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_head_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_head_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_chest_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_chest_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_head_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_chest_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_head_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_chest_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_chest_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_chest_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_chest_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_chest_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_chest_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_head_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_head_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_head_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_head_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_head_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_head_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_head_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_chest_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_chest_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_head_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_head_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_chest_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_head_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_chest_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_chest_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_chest_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 4 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 5 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_head_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_head_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_chest_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_head_f_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_chest_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: _west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_head_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_head_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_head_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_head_f_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 4 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 5 y: 0 w: 32 h: 32 dt: 0.050s
+		x: 6 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_head_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_head_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_chest_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_chest_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_chest_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zombie_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_l_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_head_m_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_eyes_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_r_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bshipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: wtmipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_head_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: skeleton_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: agent_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_chest_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hsiipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_chest_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: synth_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: hi2ipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: zhpipc_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_l_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: shadow_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xm2ipc_r_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_head_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: d_golem_head_m_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_head_m_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: b_golem_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: xmgipc_l_leg_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: default_human_chest_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: s_golem_l_arm_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: rachnid_l_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_chest_m_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clockgolem_l_leg_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: plasmaman_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_chest_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_head_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_chest_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: moth_chest_f_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ethereal_r_arm_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sgmipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: clothgolem_head_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_r_hand_north
+	Frames:
+		x: 1 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: cultgolem_r_hand_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: fly_head_f_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: ca_golem_l_hand_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_l_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: abductor_l_arm_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: husk_r_hand_west
+	Frames:
+		x: 3 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: c_golem_r_leg_east
+	Frames:
+		x: 2 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: bs2ipc_r_leg_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+
+	State: sn_golem_r_arm_south
+	Frames:
+		x: 0 y: 0 w: 32 h: 32 dt: 0.050s
+

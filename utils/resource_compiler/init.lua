@@ -1,6 +1,20 @@
 local blt = require("blt2")
-local lzma = require("lzma")
+local zstd = require("zstd")
 local lfs = require("lfs")
+
+local function compress(data)
+	local z = zstd:new()
+	local dat = assert(z:compress(data), 22)
+	z:free()
+	return dat
+end
+
+local function decompress(data)
+	local z = zstd:new()
+	local dat = assert(z:decompress(data))
+	z:free()
+	return dat
+end
 
 local files = {type="rsc_root"}
 local function get_file_table(fp)
@@ -20,7 +34,7 @@ local function scan_file(f)
 	end
 	print("Adding "..f)
 	data = h:read("*a")
-	local tbl = blt.deserialize(lzma.decompress(data))
+	local tbl = blt.deserialize(decompress(data))
 	local t, k = get_file_table(f)
 	t[k] = {
 		type = "resource",
@@ -41,6 +55,6 @@ scan_dir(arg[1])
 
 local f = io.open(arg[2], "wb")
 f:write("ls444rsc")
-f:write((lzma.compress(blt.serialize(files))))
+f:write((compress(blt.serialize(files))))
 f:close()
 print("Resource compilation complete")
