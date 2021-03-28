@@ -52,14 +52,17 @@ png:add_decoder("zTXt", function(chunk, istate)
 end)
 
 local f = io.open(arg[1], "rb")
+local start = os.clock()
 local state, chunks = png:decode(f)
+print(string.format("Decoded in %.3fs", os.clock()-start))
 f:close()
 
 local function sprite_xy(w, h, offset)
 	local s_w = state.w/w
 	local s_h = state.h/h
 	local s_x = offset % s_w
-	local s_y = math.floor(offset/s_h)
+	local s_y = math.floor(offset/s_w)*s_h
+	--print(s_w, s_h, s_x, s_y, offset)
 	return s_x*w, s_y*h
 end
 
@@ -82,8 +85,9 @@ for i=1, #dmi_dat do
 				frames[dir][#frames[dir]+1] = {x=x,y=y,w=w,h=h, dt=1/20}
 			end
 		end
+		spritemap[ent.value] = {states = {}}
 		for dir=1, sk.dirs do
-			spritemap[ent.value.."_"..directions[dir]] = frames[dir]
+			spritemap[ent.value].states[directions[dir]] = frames[dir]
 		end
 	end
 end
@@ -119,7 +123,8 @@ local image = {
 	width = state.w,
 	height = state.h,
 	color = "rgba8888",
-	data = state.idat
+	data = state.idat,
+	version = "1.0.0"
 }
 
 --require("pl.pretty").dump(image)

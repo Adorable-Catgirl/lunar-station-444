@@ -36,7 +36,8 @@ local tag_types = {
 }
 
 -- table stuff
-
+local tpush = table.insert
+local tpop = table.remove
 local function flatten(tbl)
 	local tables_in = {{tbl=tbl, i=1}}
 	local tables_out = {{id=0, tbl={}}}
@@ -44,15 +45,19 @@ local function flatten(tbl)
 	local function get_tbl(tbl)
 		if not tables_written[tbl] then
 			--print("new table")
-			tables_written[tbl] = #tables_out
-			tables_out[#tables_out+1] = {id=#tables_out, tbl={}}
-			tables_in[#tables_in+1] = {tbl=tbl,i=#tables_out}
+			local len = #tables_out
+			tables_written[tbl] = len
+			--tables_out[#tables_out+1] = {id=#tables_out, tbl={}}
+			tpush(tables_out, {id=len, tbl={}})
+			--tables_in[#tables_in+1] = {tbl=tbl,i=#tables_out}
+			tpush(tables_in, {tbl=tbl, i=len+1})
 		end
 		return {ref=tables_written[tbl]}
 	end
 	while #tables_in > 0 do
-		local tbl_i = tables_in[1].tbl
-		local tbl_o = tables_out[tables_in[1].i].tbl
+		local len = #tables_in
+		local tbl_i = tables_in[len].tbl
+		local tbl_o = tables_out[tables_in[len].i].tbl
 		for k, v in pairs(tbl_i) do
 			local nk = k
 			if (type(k) == "table") then
@@ -64,7 +69,8 @@ local function flatten(tbl)
 			end
 			tbl_o[nk] = nv
 		end
-		table.remove(tables_in, 1)
+		--table.remove(tables_in, 1)
+		tpop(tables_in)
 	end
 	return tables_out
 end
@@ -79,7 +85,7 @@ local function expand(tbl) -- owo wuts this
 	for i=1, #tbl do
 		local t = tbl[i].tbl
 		local dk = {}
-		jit.on()
+		--jit.on()
 		for k, v in pairs(t) do
 			local nk = k
 			if (type(k) == "table") then
@@ -93,7 +99,8 @@ local function expand(tbl) -- owo wuts this
 			t[nk] = nv
 		end
 		for i=1, #dk do
-			table.remove(t, dk)
+			--table.remove(t, dk)
+			tpop(t, dk)
 		end
 	end
 	for i=1, #tbl do

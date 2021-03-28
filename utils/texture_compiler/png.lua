@@ -33,15 +33,14 @@ function png:decode_raw(file)
 	if mgk ~= magic then error("not a png file") end
 	local chunks = {}
 	while true do
-		jit.off()
 		local length = int(file:read(4))
 		local ctype = file:read(4)
 		local data = file:read(length)
 		local crc_raw = int(file:read(4))
 		local crc = crc_raw % (0xFFFFFFFF+1) -- don't even ask
+		--local crc = bit.band(crc_raw, 0xFFFFFFFF) -- fixes `luajit: ./png.lua:47: crc mismatch on chunk IDAT (ffffffffabc7055f ~= abc7055f)`
 		local fuck = 0
 		local c_crc = zlib.crc32()(ctype..data)
-		jit.on()
 		if (crc ~= c_crc) then
 			error(string.format("crc mismatch on chunk %s (%.8x ~= %.8x)", ctype, crc, c_crc))
 		end
@@ -125,11 +124,27 @@ function png:apply_filter_ffi(state)
 		--print(filter)
 		i = i + 1
 		for c=0, stride-1 do
-			io.stdout:write(string.format("%.8x/%.8x (%d%%)\r", i, state.h*state.w*4, (i/(state.h*state.w*4))*100))
+			--io.stdout:write(string.format("%.8x/%.8x (%d%%)\r", i, state.h*state.w*4, (i/(state.h*state.w*4))*100))
+			--jit.off()
 			local x = oimage[i]
 			i = i + 1
-			recon[rpos] = assert(filters[filter], "unknown filter "..filter.. " at "..i.."/"..r)(x, r, c)
+			--jit.flush()
+			--recon[rpos] = assert(filters[filter], "unknown filter "..filter.. " at "..i.."/"..r)(x, r-1, c-1)
+			if (filter == 0) then
+				recon[rpos] = x
+			elseif (filter == 1) then
+				recon[rpos] = x + r_a(r, c)
+			elseif (filter == 2) then
+				recon[rpos] = x + r_b(r, c)
+			elseif (filter == 3) then
+				recon[rpos] = x + math.floor(r_a(r, c)/r_b(r, c))
+			elseif (filter == 4) then
+				recon[rpos] = x + paeth_predictor(r_a(r, c), r_b(r, c), r_c(r, c))
+			else
+				error("unknown filter")
+			end
 			rpos = rpos+1
+			--jit.on()
 		end
 	end
 	state.idat = ffi.string(recon, state.h*state.w*4)
